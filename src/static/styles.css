@@ -80,7 +80,7 @@ section h3 {
   list-style-type: disc;
 }
 
-.activity-card ul li {
+.activity-card ul .participant {
   margin-bottom: 5px;
   color: #555;
   font-size: 14px;
